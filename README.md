@@ -1,1 +1,1 @@
-# Data_Engineering_Zoomcamp_DPhi
+This repo contains everything related to [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) by [Datatalks.Club](https://datatalks.club/) and [DPhi](https://dphi.tech/).
